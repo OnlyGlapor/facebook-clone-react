@@ -69,7 +69,7 @@ A responsive Facebook UI clone built with React and Tailwind CSS. This project r
 
  ```
 
-## 🏗️ Project Structure
+### 🏗️ Project Structure
 ```sh
   facebook-clone-react/
 ├── public/
@@ -88,7 +88,7 @@ A responsive Facebook UI clone built with React and Tailwind CSS. This project r
 ```
 
 
-##📝 Educational Purpose
+### Educational Purpose
 This project was created to demonstrate proficiency in:
 
 React.js component architecture
@@ -100,7 +100,7 @@ State management
 Component reusability
 CSS Grid and Flexbox layouts
 
-##🤝 Contributing
+### 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
 Fork the Project
@@ -109,7 +109,7 @@ Commit your Changes (git commit -m 'Add some AmazingFeature')
 Push to the Branch (git push origin feature/AmazingFeature)
 Open a Pull Request
 
-##📄 License
+### 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 ⚠️ Important Note
 This is a clone project for educational purposes only. All product logos, designs, and trademarks, except where noted, are the property of their respective owners.
@@ -119,7 +119,7 @@ Design inspiration from Facebook
 Icons from Lucide Icons
 React community for amazing tools and libraries
 
-##📧 Contact
-Your Name - your.email@example.com
-Project Link: https://github.com/yourusername/facebook-clone-react
+### 📧 Contact
+Kelvin Nimely - knimely43@gmail.com
+Project Link: https://github.com/OnlyGlapor/facebook-clone-react
 
