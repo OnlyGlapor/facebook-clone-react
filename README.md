@@ -7,10 +7,10 @@ A responsive Facebook UI clone built with React and Tailwind CSS. This project r
 ## 📸 Preview
 
 ### Desktop View
-![Facebook Clone Desktop View 1](screenshot1.png)
+![Facebook Clone Desktop View 1](/assets/screenshots/screenshot1.png)
 *Main interface showing stories carousel, create post interface, and personalized feed*
 
-![Facebook Clone Desktop View 2](screenshot2.png) 
+![Facebook Clone Desktop View 2](/assets/screenshots/screenshot2.png) 
 *Responsive layout with left navigation, news feed, and right sidebar with sponsored content*
 
 ## 🚀 Key Features
